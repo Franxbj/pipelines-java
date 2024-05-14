@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/francis21000/pipelineExample/_apis/build/status%2FFranxbj.pipelines-java?branchName=main)](https://dev.azure.com/francis21000/pipelineExample/_build/latest?definitionId=2&branchName=main)
 
 # Contributing to some changes
 
